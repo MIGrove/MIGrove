@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MIGrove
+- 👋 Hi, I’m Matthew, a university student studying Computer Science and Mathematics!
 - 👀 I’m interested in back-end dev., CS theory, experimental games, etc.
-- 🌱 I’m currently learning about competitive programming techniques from 'The Competitive Programmer's Handbook'. It's a great book!
+- 🌱 I’m currently learning about competitive programming techniques from 'The Competitive Programmer's Handbook'. It's a great read!
 - 💞️ I’m looking to collaborate on... nothing atm. Maybe in future? :P
 - 📫 How to reach me: Shoot me an email! matthewigrove@gmail.com
 

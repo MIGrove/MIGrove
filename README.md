@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew, a uni. student studying Computer Science!
-- 👀 I’m interested in back-end dev., CS theory, and weird little simulations.
-- 🌱 I’m currently learning about competitive programming techniques from 'The Competitive Programmer's Handbook'. It's a great read!
+- 👀 I’m interested in InfoSec. and weird little simulations.
+- 🌱 I’m currently learning about the myriad ways in which an OS can mess up.
 - 💞️ I’m looking to collaborate on... nothing atm. Maybe in future? :P
 - 📫 How to reach me: Shoot me an email! matthewigrove@gmail.com
 
